@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/petprojects.png" alt="Sublime's custom image"/>
+  <img src="res/JavaEE.jpg" alt="Sublime's custom image"/>
 </p>
 Studying JavaEE technologies^
 
