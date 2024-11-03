@@ -22,6 +22,6 @@ Studying JavaEE technologies^
 * Spring Doc OpenApi 3.0
 * JUnit5 / Mockito / Testcontainers
 * MapStruct
-* Maven
-* Lombok
+Maven
+Lombok
 * Docker
