@@ -1,7 +1,7 @@
 <p align="center">
   <img src="res/JavaEE.jpg" alt="Sublime's custom image"/>
 </p>
-Studying JavaEE technologies^
+Studying JavaEE technologies and commitin'g here
 
 
 
