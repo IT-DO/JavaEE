@@ -5,7 +5,7 @@ Studying JavaEE technologies and commitin'g here
 
 
 
-|      [Maven/Gradle](https://github.com/IT-DO/JavaEE/blob/main/gradle-start)      | Java 17 | Spring Cloud |
+|      [Maven/Gradle](https://github.com/IT-DO/JavaEE/blob/main/gradle-start)      | [Java 17](https://docs.oracle.com/en/java/javase/17/) | Spring Cloud |
 |:----------------------:|:---:|:---:|
 |         Lombok         | Spring Boot 3 | Kafka |
 |         Docker         | Spring Data JPA | Keycloak |
