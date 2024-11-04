@@ -4,7 +4,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/firstMavenProject/pom.xml" />
+        <option value="$PROJECT_DIR$/first-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/webapp-maven-test/pom.xml" />
+        <option value="$PROJECT_DIR$/first-mvc-app/pom.xml" />
       </list>
     </option>
   </component>

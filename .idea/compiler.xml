@@ -6,11 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="firstMavenProject" />
+        <module name="maven-start" />
+        <module name="database" />
+        <module name="web" />
+        <module name="webapp-maven-test" />
+        <module name="service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="firstMavenProject" target="1.8" />
+      <module name="gradle-starter" target="17" />
+      <module name="gradle-starter.main" target="17" />
+      <module name="gradle-starter.test" target="17" />
       <module name="maven-quick-start-archetypeEx" target="1.8" />
+      <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -15,7 +15,20 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
   <build>
+
     <finalName>webapp-maven-test</finalName>
+    <plugins>
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-war-plugin</artifactId>
+      <version>3.2.2</version>
+      <configuration>
+        <outputDirectory>C:\Program Files\devtools\Tomcat 11.0\webapps</outputDirectory>
+      </configuration>
+    </plugin>
+    </plugins>
   </build>
+
 </project>
